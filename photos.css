@@ -1,0 +1,441 @@
+.desktop-3,
+.desktop-3 * {
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #000000;
+}
+
+.desktop-3 {
+  height: 6408px;
+  position: relative;
+  overflow: hidden;
+}
+
+.photos {
+  width: 575px;
+  height: 125px;
+  position: absolute;
+  left: 432px;
+  top: 478px;
+}
+
+.photos2 {
+  color: #ffffff;
+  text-align: left;
+  font-family: "KronaOne-Regular", sans-serif;
+  font-size: 100px;
+  font-weight: 400;
+  position: absolute;
+  width: 100%;
+  height: 100%;
+}
+
+.component-2 {
+  width: 69px;
+  height: 69px;
+  position: absolute;
+  left: 685px;
+  top: 667px;
+  overflow: visible;
+}
+
+.id-441-nartan-diptyque-2-copie-1 {
+  width: 595px;
+  height: 397px;
+  position: absolute;
+  left: 73px;
+  top: 1686px;
+}
+
+.id-441-nartan-diptyque-2-copie-12 {
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  right: 0%;
+  left: 0%;
+  bottom: 0%;
+  top: 0%;
+  object-fit: cover;
+}
+
+._1 {
+  color: #ffffff;
+  text-align: left;
+  font-family: "KronaOne-Regular", sans-serif;
+  font-size: 50px;
+  font-weight: 400;
+  position: absolute;
+  left: 73px;
+  top: 1080px;
+}
+
+._2 {
+  width: 63px;
+  height: 63px;
+  position: absolute;
+  left: 73px;
+  top: 2253px;
+}
+
+._22 {
+  color: #ffffff;
+  text-align: left;
+  font-family: "KronaOne-Regular", sans-serif;
+  font-size: 50px;
+  font-weight: 400;
+  position: absolute;
+  right: 0%;
+  left: 0%;
+  width: 100%;
+  bottom: 0%;
+  top: 0%;
+  height: 100%;
+}
+
+._3 {
+  width: 63px;
+  height: 63px;
+  position: absolute;
+  left: 73px;
+  top: 3956px;
+}
+
+._32 {
+  color: #ffffff;
+  text-align: left;
+  font-family: "KronaOne-Regular", sans-serif;
+  font-size: 50px;
+  font-weight: 400;
+  position: absolute;
+  right: 0%;
+  left: 0%;
+  width: 100%;
+  bottom: 0%;
+  top: 0%;
+  height: 100%;
+}
+
+._4 {
+  width: 67px;
+  height: 63px;
+  position: absolute;
+  left: 73px;
+  top: 5300px;
+}
+
+._42 {
+  color: #ffffff;
+  text-align: left;
+  font-family: "KronaOne-Regular", sans-serif;
+  font-size: 50px;
+  font-weight: 400;
+  position: absolute;
+  right: 0%;
+  left: 0%;
+  width: 100%;
+  bottom: 0%;
+  top: 0%;
+  height: 100%;
+}
+
+.id-441-nartan-diptyque-1-copie-1 {
+  width: 595px;
+  height: 449px;
+  position: absolute;
+  left: 73px;
+  top: 1190px;
+}
+
+.id-441-nartan-diptyque-1-copie-12 {
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  right: 0%;
+  left: 0%;
+  bottom: 0%;
+  top: 0%;
+  object-fit: cover;
+}
+
+.artiste-dans-son-environnement-de-travail {
+  width: 610px;
+  height: 239px;
+  position: absolute;
+  left: 720px;
+  top: 1566px;
+}
+
+.artiste-dans-son-environnement-de-travail2 {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Futura-Medium", sans-serif;
+  font-size: 50px;
+  font-weight: 500;
+  position: absolute;
+  right: 0%;
+  left: 0%;
+  width: 100%;
+  bottom: 0%;
+  top: 0%;
+  height: 100%;
+}
+
+.mise-en-avant-du-th-me-lieu-de-travail-pour-la-revue-skilled {
+  width: 737px;
+  height: 246px;
+  position: absolute;
+  left: 619px;
+  top: 2671px;
+}
+
+.mise-en-avant-du-th-me-lieu-de-travail-pour-la-revue-skilled2 {
+  color: #ffffff;
+  text-align: left;
+  font-family: "-", sans-serif;
+  font-size: 50px;
+  font-weight: 400;
+  position: absolute;
+  right: 0%;
+  left: 0%;
+  width: 100%;
+  bottom: 0%;
+  top: 0%;
+  height: 100%;
+}
+
+.mise-en-avant-du-th-me-lieu-de-travail-pour-la-revue-skilled-2-span {
+  color: #ffffff;
+  font-family: "Futura-Medium", sans-serif;
+  font-size: 50px;
+  font-weight: 500;
+}
+
+.mise-en-avant-du-th-me-lieu-de-travail-pour-la-revue-skilled-2-span2 {
+  color: #ffffff;
+  font-family: "Futura-MediumItalic", sans-serif;
+  font-size: 50px;
+  font-weight: 500;
+  font-style: italic;
+}
+
+.s-rie-photographique-de-nature-morte-travail-de-groupe {
+  width: 743px;
+  height: 185px;
+  position: absolute;
+  left: 650px;
+  top: 4537px;
+}
+
+.s-rie-photographique-de-nature-morte-travail-de-groupe2 {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Futura-Medium", sans-serif;
+  font-size: 50px;
+  font-weight: 500;
+  position: absolute;
+  right: 0%;
+  left: 0%;
+  width: 100%;
+  bottom: 0%;
+  top: 0%;
+  height: 100%;
+}
+
+.ondes-ph-m-res-s-rie-photographique-sur-le-mouvement-de-l-eau {
+  width: 1110px;
+  height: 133px;
+  position: absolute;
+  left: 73px;
+  top: 6168px;
+}
+
+.ondes-ph-m-res-s-rie-photographique-sur-le-mouvement-de-l-eau2 {
+  color: #ffffff;
+  text-align: left;
+  font-family: "-", sans-serif;
+  font-size: 50px;
+  font-weight: 400;
+  position: absolute;
+  right: 0%;
+  left: 0%;
+  width: 100%;
+  bottom: 0%;
+  top: 0%;
+  height: 100%;
+}
+
+.ondes-ph-m-res-s-rie-photographique-sur-le-mouvement-de-l-eau-2-span {
+  color: #ffffff;
+  font-family: "Futura-MediumItalic", sans-serif;
+  font-size: 50px;
+  font-weight: 500;
+  font-style: italic;
+}
+
+.ondes-ph-m-res-s-rie-photographique-sur-le-mouvement-de-l-eau-2-span2 {
+  color: #ffffff;
+  font-family: "Futura-Medium", sans-serif;
+  font-size: 50px;
+  font-weight: 500;
+}
+
+.train-skilled-copie-1 {
+  width: 477px;
+  height: 715px;
+  position: absolute;
+  left: 73px;
+  top: 2363px;
+}
+
+.train-skilled-copie-12 {
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  right: 0%;
+  left: 0%;
+  bottom: 0%;
+  top: 0%;
+  object-fit: cover;
+}
+
+.enregistrement-de-l-e-cran-2024-10-25-a-13-34-17-1 {
+  width: 1091px;
+  height: 715px;
+  position: absolute;
+  left: 73px;
+  top: 3143px;
+}
+
+.enregistrement-de-l-e-cran-2024-10-25-a-13-34-17-12 {
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  right: 0%;
+  left: 0%;
+  bottom: 0%;
+  top: 0%;
+}
+
+.alessandro-nartan-id-331-image-2 {
+  width: 517px;
+  height: 345px;
+  position: absolute;
+  left: 73px;
+  top: 4499px;
+}
+
+.alessandro-nartan-id-331-image-22 {
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  right: 0%;
+  left: 0%;
+  bottom: 0%;
+  top: 0%;
+  object-fit: cover;
+}
+
+.alessandro-nartan-id-331-image-1 {
+  width: 517px;
+  height: 345px;
+  position: absolute;
+  left: 73px;
+  top: 4086px;
+}
+
+.alessandro-nartan-id-331-image-12 {
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  right: 0%;
+  left: 0%;
+  bottom: 0%;
+  top: 0%;
+  object-fit: cover;
+}
+
+.alessandro-nartan-id-331-image-3 {
+  width: 517px;
+  height: 345px;
+  position: absolute;
+  left: 73px;
+  top: 4857px;
+}
+
+.alessandro-nartan-id-331-image-32 {
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  right: 0%;
+  left: 0%;
+  bottom: 0%;
+  top: 0%;
+  object-fit: cover;
+}
+
+.image-1 {
+  width: 1362px;
+  height: 766px;
+  position: absolute;
+  left: 39px;
+  top: 5402px;
+}
+
+.image-12 {
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  right: 0%;
+  left: 0%;
+  bottom: 0%;
+  top: 0%;
+  object-fit: cover;
+}
+
+.rectangle-1 {
+  width: 1440px;
+  height: 1080px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+
+.rectangle-12 {
+  background: linear-gradient(
+    180deg,
+    rgba(0, 0, 0, 1) 1.9999999552965164%,
+    rgba(0, 0, 0, 0) 27.500000596046448%
+  );
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  right: 0%;
+  left: 0%;
+  bottom: 0%;
+  top: 0%;
+}
+
+.nartan-yildiz {
+  width: 298px;
+  height: 38px;
+  position: sticky;
+  left: 1084px;
+  top: 54px;
+}
+
+.nartan-yildiz2 {
+  color: #ffffff;
+  text-align: left;
+  font-family: "KronaOne-Regular", sans-serif;
+  font-size: 30px;
+  font-weight: 400;
+  position: absolute;
+  right: 0%;
+  left: 0%;
+  width: 100%;
+  bottom: 0%;
+  top: 0%;
+  height: 100%;
+}

@@ -1,0 +1,129 @@
+.desktop-2,
+.desktop-2 * {
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #000000;
+}
+
+.desktop-2 {
+  height: 1024px;
+  position: relative;
+  overflow: hidden;
+}
+
+.work {
+  width: 400px;
+  height: 125px;
+  position: absolute;
+  left: calc(50% - 652px);
+  top: calc(50% - 232px);
+}
+
+.work2 {
+  color: #ffffff;
+  text-align: left;
+  font-family: "KronaOne-Regular", sans-serif;
+  font-size: 100px;
+  font-weight: 400;
+  position: absolute;
+  right: 0%;
+  left: 0%;
+  width: 100%;
+  bottom: 0%;
+  top: 0%;
+  height: 100%;
+}
+
+.photos {
+  width: 233px;
+  height: 63px;
+  position: absolute;
+  left: calc(50% - 652px);
+  top: calc(50% - 54px);
+}
+
+.photos2 {
+  color: #ffffff;
+  text-align: left;
+  font-family: "KronaOne-Regular", sans-serif;
+  font-size: 50px;
+  font-weight: 400;
+  position: absolute;
+  right: 0%;
+  left: 0%;
+  width: 100%;
+  bottom: 0%;
+  top: 0%;
+  height: 100%;
+}
+
+.ui-ux {
+  width: 221px;
+  height: 63px;
+  position: absolute;
+  left: calc(50% - 652px);
+  top: calc(50% - -62px);
+}
+
+.ui-ux2 {
+  color: #ffffff;
+  text-align: left;
+  font-family: "KronaOne-Regular", sans-serif;
+  font-size: 50px;
+  font-weight: 400;
+  position: absolute;
+  right: 0%;
+  left: 0%;
+  width: 100%;
+  bottom: 0%;
+  top: 0%;
+  height: 100%;
+}
+
+.videos-animation {
+  width: 625px;
+  height: 63px;
+  position: absolute;
+  left: calc(50% - 652px);
+  top: calc(50% - -169px);
+}
+
+.videos-animation2 {
+  color: #ffffff;
+  text-align: left;
+  font-family: "KronaOne-Regular", sans-serif;
+  font-size: 50px;
+  font-weight: 400;
+  position: absolute;
+  right: 0%;
+  left: 0%;
+  width: 100%;
+  bottom: 0%;
+  top: 0%;
+  height: 100%;
+}
+
+._3-d {
+  width: 88px;
+  height: 63px;
+  position: absolute;
+  left: calc(50% - 652px);
+  top: calc(50% - -285px);
+}
+
+._3-d2 {
+  color: #ffffff;
+  text-align: left;
+  font-family: "KronaOne-Regular", sans-serif;
+  font-size: 50px;
+  font-weight: 400;
+  position: absolute;
+  right: 0%;
+  left: 0%;
+  width: 100%;
+  bottom: 0%;
+  top: 0%;
+  height: 100%;
+}
